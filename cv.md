@@ -28,7 +28,7 @@ My name is Nurana. I am 23 and I love programming. I want to have a career as a 
 - Azerbaijani - native
 - English - upper-intermediate
 - French - A2
-- 
+- Turkish - advanced
 
 ### Education
 
