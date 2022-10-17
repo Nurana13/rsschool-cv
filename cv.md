@@ -35,7 +35,7 @@ My name is Nurana. I am 23 and I love programming. I want to have a career as a 
 - I graduated from the university in 2020. I have studied state and municipal administration.
 - Mobile Application Development - ABB Tech
 - FreeCodeCamp - Web Development
-- 
+- Code in place - Python
 
 ### Experience
 
