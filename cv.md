@@ -21,7 +21,7 @@ My name is Nurana. I am 23 and I love programming. I want to have a career as a 
 - Figma
 - Bootstrap
 - JQuery
-- 
+- Problem-solving
 
 ### Languages
 
